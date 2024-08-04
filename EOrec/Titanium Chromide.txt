@@ -1,0 +1,4 @@
+200
+Titanium, 100
+Chromium, 100
+Oxygen Fuel Block, 5

@@ -1,0 +1,4 @@
+300
+Titanium Chromide, 100
+Ferrofluid, 100
+Nitrogen Fuel Block, 5

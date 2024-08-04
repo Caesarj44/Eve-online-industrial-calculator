@@ -1,0 +1,12 @@
+1
+Scalar Capacitor Unit, 450
+Gravimetric Sensor Cluster, 398
+Magpulse Thruster, 75
+Titanium Diborite Armor Plate, 5625
+Quantum Microprocessor, 1350
+Sustained Shield Emitter, 450
+Graviton Reactor Unit, 38
+Morphite, 150
+Construction Blocks, 150
+Caracal, 1
+RAM Starship Tech, 18

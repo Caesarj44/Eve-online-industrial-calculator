@@ -1,0 +1,4 @@
+200
+Vanadium, 100
+Hafnium, 100
+Hydrogen Fuel Block, 5

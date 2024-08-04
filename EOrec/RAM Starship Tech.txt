@@ -1,0 +1,6 @@
+100
+Tritanium, 556
+Pyerite, 444
+Mexallon, 222
+Isogen, 82
+Nocxium, 36

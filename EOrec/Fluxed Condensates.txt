@@ -1,0 +1,4 @@
+200
+Neodymium, 100
+Thulium, 100
+Oxygen Fuel Block, 5

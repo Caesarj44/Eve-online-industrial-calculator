@@ -1,0 +1,6 @@
+400
+Hexite, 100
+Hyperflurite, 100
+Ferrofluid, 100
+Prometium, 100
+Hydrogen Fuel Block, 5

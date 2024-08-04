@@ -1,0 +1,5 @@
+1500
+Sulfuric Acid, 100
+Platinum Technite, 100
+Neo Mercurite, 100
+Nitrogen Fuel Block, 5

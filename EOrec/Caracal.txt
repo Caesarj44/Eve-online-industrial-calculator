@@ -1,0 +1,8 @@
+1
+Tritanium, 540000
+Pyerite, 180000
+Mexallon, 36000
+Isogen, 10000
+Nocxium, 1500
+Zydrine, 350
+Megacyte, 140

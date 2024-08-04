@@ -1,0 +1,4 @@
+200
+Hafnium, 100
+Dysprosium, 100
+Hydrogen Fuel Block, 5

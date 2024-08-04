@@ -1,0 +1,5 @@
+2200
+Silicon Diborite, 100
+Caesarium Cadmide, 100
+Vanadium Hafnite, 100
+Oxygen Fuel Block, 5

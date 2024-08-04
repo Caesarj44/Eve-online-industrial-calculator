@@ -1,0 +1,4 @@
+200
+Chromium, 100
+Platinum, 100
+Nitrogen Fuel Block, 5

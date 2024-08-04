@@ -1,0 +1,5 @@
+750
+Solerium, 100
+Dysporite, 100
+Vanadium Hafnite, 100
+Oxygen Fuel Block, 5

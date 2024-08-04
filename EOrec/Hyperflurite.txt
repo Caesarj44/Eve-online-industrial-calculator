@@ -1,0 +1,4 @@
+200
+Vanadium, 100
+Promethium, 100
+Nitrogen Fuel Block, 5

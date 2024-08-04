@@ -1,0 +1,5 @@
+1
+Chiral Structures, 100
+Water, 100
+Pressurized Oxidizers, 500
+Reinforced Carbon Fiber, 500

@@ -1,0 +1,4 @@
+200
+Atmospheric Gases, 100
+Evaporite Deposits, 100
+Nitrogen Fuel Block, 5

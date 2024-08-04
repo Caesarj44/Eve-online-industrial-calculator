@@ -1,0 +1,4 @@
+200
+Evaporite Deposits, 100
+Silicates, 100
+Hydrogen Fuel Block, 5

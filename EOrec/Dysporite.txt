@@ -1,0 +1,4 @@
+200
+Mercury, 100
+Dysprosium, 100
+Helium Fuel Block, 5

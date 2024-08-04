@@ -1,0 +1,4 @@
+200
+Hydrocarbons, 100
+Evaporite Deposits, 100
+Hydrogen Fuel Block, 5

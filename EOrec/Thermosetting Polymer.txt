@@ -1,0 +1,4 @@
+200
+Atmospheric Gases, 100
+Silicates, 100
+Oxygen Fuel Block, 5

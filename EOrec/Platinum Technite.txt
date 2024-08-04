@@ -1,0 +1,4 @@
+200
+Platinum, 100
+Technetium, 100
+Nitrogen Fuel Block, 5

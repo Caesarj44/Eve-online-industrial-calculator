@@ -1,0 +1,4 @@
+200
+Chromium, 100
+Caesium, 100
+Oxygen Fuel Block, 5

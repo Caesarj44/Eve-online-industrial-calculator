@@ -1,0 +1,4 @@
+200
+Hydrocarbons, 100
+Silicates, 100
+Helium Fuel Block, 5

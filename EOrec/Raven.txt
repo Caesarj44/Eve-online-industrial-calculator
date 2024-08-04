@@ -1,0 +1,11 @@
+1
+Tritanium, 8000000
+Pyerite, 4000000
+Mexallon, 600000
+Isogen, 400000
+Nocxium, 12000
+Zydrine, 6000
+Megacyte, 3000
+Auto-Integrity Preservation Seal, 200
+Core Temperature Regulator, 1
+Life Support Backup Unit, 100

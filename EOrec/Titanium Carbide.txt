@@ -1,0 +1,4 @@
+10000
+Titanium Chromide, 100
+Silicon Diborite, 100
+Oxygen Fuel Block, 5
